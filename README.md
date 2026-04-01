@@ -9,7 +9,7 @@ The goal wasn’t just to write queries, but to understand what the data is sayi
 
 ## 🧾 What I did
 - Created and structured a retail sales database  
-- Cleaned the dataset by identifying and removing missing or records  
+- Cleaned the dataset by identifying and removing missing records  
 - Explored the data to understand key patterns  
 - Answered business-focused questions using SQL  
 - Analyzed trends across customers, product categories, and time  
@@ -37,7 +37,7 @@ Some of the questions I worked on include:
 
 To better understand how revenue changes over time, I analyzed monthly sales data for 2022 and 2023 and created a simple visualization in Excel.
 
-![Monthly Revenue Trend]()
+![Monthly Revenue Trend](https://github.com/Rael-pixel/SQL-retail_sales_project1/blob/main/sql%20final.png?raw=true)
 
 ### 🔍 Key Observations
 - Revenue increases significantly from around September in both years  
