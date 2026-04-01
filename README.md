@@ -65,4 +65,4 @@ This project helped me get more comfortable with:
 
 ## 🔗 Project Link
 You can view the full SQL queries and dataset here:  
-https://github.com/Rael-pixel/SQL-retail_sales_project1
+
